@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublyLinkedList", "DoublyLinkedList.csproj", "{E60ED0C2-6A61-4460-862F-C928D31A79A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "..\BinarySearch\BinarySearch.csproj", "{E1B43333-09AB-44A3-A0EC-2DD6C581922E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60ED0C2-6A61-4460-862F-C928D31A79A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60ED0C2-6A61-4460-862F-C928D31A79A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60ED0C2-6A61-4460-862F-C928D31A79A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60ED0C2-6A61-4460-862F-C928D31A79A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B43333-09AB-44A3-A0EC-2DD6C581922E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B43333-09AB-44A3-A0EC-2DD6C581922E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B43333-09AB-44A3-A0EC-2DD6C581922E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B43333-09AB-44A3-A0EC-2DD6C581922E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A50304A-E9D6-4B3F-91B5-BA6896377754}
+	EndGlobalSection
+EndGlobal
